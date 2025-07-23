@@ -10,6 +10,8 @@ python main.py
 
 # App Project
 
+## Linux
+
 ```sh
 git clone
 cd app
@@ -17,6 +19,8 @@ source env/bin/activate
 pip3 install -r requirements.txt
 python main.py
 ```
+
+## Windows
 
 ```sh
 git clone
